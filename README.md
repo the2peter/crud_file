@@ -8,7 +8,7 @@ How to run this script
 
 4.Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5.Create a database with name phpcrud
+5.Create a database with name crudv2
 
 6.Import phpcrud.sql file(given inside the zip package in SQL file folder)
 
